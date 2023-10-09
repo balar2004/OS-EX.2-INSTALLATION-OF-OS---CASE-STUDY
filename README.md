@@ -14,11 +14,11 @@ Install VMware Player and run it, can see something like this
 ## STEP 3:
 Select “Create a New Virtual Machine”
 
-## STEP4: 
+## STEP 4: 
 Select “Installer disc image file” and browse to the Ubuntu iso downloaded. Click next
 ![image](https://github.com/NAGINENIROHITH/OS-EX.2-INSTALLATION-OF-OS---CASE-STUDY/assets/118344049/dc5307fd-61c3-4ae0-94d3-9117e1dda980)
 
-## STEP5: 
+## STEP 5: 
 Enter full name, username and password and hit next
 ![image](https://github.com/NAGINENIROHITH/OS-EX.2-INSTALLATION-OF-OS---CASE-STUDY/assets/118344049/59aa67c2-d922-4b6e-a6d8-d9ff713121d5)
 
@@ -26,7 +26,7 @@ Enter full name, username and password and hit next
 Select the maximum disk size and type. Unless planning on some really CPU intensive work inside the VM, select the “Split virtual disk into multiple files” option. Hit next when comfortable with
 ![image](https://github.com/NAGINENIROHITH/OS-EX.2-INSTALLATION-OF-OS---CASE-STUDY/assets/118344049/54b0684b-e0d4-4e13-99ec-4fd2776ef232)
 
-## STEP7: 
+## STEP 7: 
 This brings to the confirmation page. Click “Customize Hardware”
 ![image](https://github.com/NAGINENIROHITH/OS-EX.2-INSTALLATION-OF-OS---CASE-STUDY/assets/118344049/5b8d8df5-61f3-4428-8a68-8e5166e4bc3f)
 
